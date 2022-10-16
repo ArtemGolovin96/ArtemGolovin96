@@ -13,7 +13,7 @@
         <ul>
             <li>Discord - ArtemArtem#1462</li>
             <li>Telegram - Artem_bzr</li>
-       	    <li>Email - artempotapkin96@icloud.com</li>
+       	    <li>Em - artempotapkin96@icloud.com</li>
         </ul>
     </th>
 <table>
