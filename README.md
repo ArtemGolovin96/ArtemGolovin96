@@ -3,7 +3,10 @@
 <ul>
 <li>👀 I’m interested in motorcycles, techologies and computer science</li>
 <li>🌱 I’m currently learning JS/TS, frontend, Python, Java and algorithms</li>
-<li>📫 How to reach me artempotapkin96@icloud.com</li>
+ <ul>📫 How to reach me artempotapkin96@icloud.com</ul>
+  <li>Discord - ArtemArtem#1462<li>
+  <li>Telegram - Artem_bzr<li>
+  <li>Email - artempotapkin96@icloud.com<li>
 </ul>
 
 
