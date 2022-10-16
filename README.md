@@ -1,33 +1,22 @@
 <h1 text-align="center">Hello Friends!</h1>
 <p> 👋 I’m Artem Golovin </p>
 <ul>
-<li>👀 I’m interested in motorcycles, techologies and computer science</li>
-<li>🌱 I’m currently learning JS/TS, frontend, Python, Java and algorithms</li>
- <li>✍️ I am a student of <a href="https://mtuci.ru/">MTUCI</a></li>
- </ul>
-  <table overflow-y="auto">
-    	<th>
-          <b>📫 How to reach me: </b>
-      	</th>
-    <tbody>
-      	<th>
-      		<ul>
-                <li>Discord - ArtemArtem#1462</li>
-       			<li>Telegram - Artem_bzr</li>
-       			<li>Email - artempotapkin96@icloud.com</li>
-          	</ul>
-      	</th>
-	</tbody>
-  <table>
-    
-<svg width="200" height="200">
-  <g>
-    <ellipse cx="100" cy="100" rx="160" ry="60" />
-    <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(60, 100, 100)" />
-    <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(120, 100, 100)" />
-    <circle cx="100" cy="100" r="30" />
-  </g>
-</svg>
+	<li>👀 I’m interested in motorcycles, techologies and computer science</li>
+	<li>🌱 I’m currently learning JS/TS, frontend, Python, Java and algorithms</li>
+ 	<li>✍️ I am a student of <a href="https://mtuci.ru/">MTUCI</a></li>
+</ul>
+<table overflow-y="auto">
+    <th>
+        <b>📫 How to reach me: </b>
+    </th>
+    <th>
+        <ul>
+            <li>Discord - ArtemArtem#1462</li>
+            <li>Telegram - Artem_bzr</li>
+       	    <li>Email - artempotapkin96@icloud.com</li>
+        </ul>
+    </th>
+<table>
 
 
 <h3>My stack-skills</h3>
@@ -50,11 +39,9 @@
 </a>
  
 <a href="https://reactjs.org/" rel="nofollow">
-<img align="center" width="68px" height="68px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-ar21.svg" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="max-width: 100%;">
+<img src="https://www.kindpng.com/picc/m/400-4004389_react-storybook-react-native-logo-hd-png-download.png" alt="React-storybook - React Native Logo, HD Png Download@kindpng.com">
 </a>
- 
-
- 
+	
 </div>
 
 <!---
