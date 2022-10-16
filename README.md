@@ -6,9 +6,10 @@
  <li>✍️ I am a student of <a href="https://mtuci.ru/">MTUCI</a></li>
  </ul>
   <table>
-    	<caption>
+    	<caption margin-bottop="10px">
           <b>📫 How to reach me artempotapkin96@icloud.com</b>
       	</caption>
+        
        <tr><td>Discord - ArtemArtem#1462</td></tr>
        <tr><td>Telegram - Artem_bzr</td><tr>
        <tr><td>Email - artempotapkin96@icloud.com</td><tr>
