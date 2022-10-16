@@ -3,13 +3,16 @@
 <ul>
 <li>👀 I’m interested in motorcycles, techologies and computer science</li>
 <li>🌱 I’m currently learning JS/TS, frontend, Python, Java and algorithms</li>
+ <li>✍️ I am a student of <a href="https://mtuci.ru/">MTUCI</a></li>
+ </ul>
   <table>
-   <th>📫 How to reach me artempotapkin96@icloud.com</th>
-     <tr>Discord - ArtemArtem#1462<tr>
-     <tr>Telegram - Artem_bzr<tr>
-     <tr>Email - artempotapkin96@icloud.com<tr>
+    	<caption>
+          <b>📫 How to reach me artempotapkin96@icloud.com</b>
+      	</caption>
+       <tr><td>Discord - ArtemArtem#1462</td></tr>
+       <tr><td>Telegram - Artem_bzr</td><tr>
+       <tr><td>Email - artempotapkin96@icloud.com</td><tr>
   <table>
-</ul>
 
 
 <h3>My stack-skills</h3>
