@@ -5,16 +5,29 @@
 <li>🌱 I’m currently learning JS/TS, frontend, Python, Java and algorithms</li>
  <li>✍️ I am a student of <a href="https://mtuci.ru/">MTUCI</a></li>
  </ul>
-  <table overflow-y="hidden">
-    	<caption>
-          <b text-align="center">📫 How to reach me:</b>
-      	</caption>
+  <table overflow-y="auto">
+    	<th>
+          <b>📫 How to reach me: </b>
+      	</th>
     <tbody>
-      	<tr><th>Discord - ArtemArtem#1462</t></tr>
-       <tr><th>Telegram - Artem_bzr</th><tr>
-       <tr><th>Email - artempotapkin96@icloud.com</th><tr>
+      	<th>
+      		<ul>
+                <li>Discord - ArtemArtem#1462</li>
+       			<li>Telegram - Artem_bzr</li>
+       			<li>Email - artempotapkin96@icloud.com</li>
+          	</ul>
+      	</th>
 	</tbody>
   <table>
+    
+<svg width="200" height="200">
+  <g>
+    <ellipse cx="100" cy="100" rx="160" ry="60" />
+    <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(60, 100, 100)" />
+    <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(120, 100, 100)" />
+    <circle cx="100" cy="100" r="30" />
+  </g>
+</svg>
 
 
 <h3>My stack-skills</h3>
