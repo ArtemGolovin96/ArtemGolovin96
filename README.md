@@ -5,7 +5,7 @@
 <li>🌱 I’m currently learning JS/TS, frontend, Python, Java and algorithms</li>
  <li>✍️ I am a student of <a href="https://mtuci.ru/">MTUCI</a></li>
  </ul>
-  <table>
+  <table overflow-y="hidden">
     	<caption>
           <b text-align="center">📫 How to reach me:</b>
       	</caption>
