@@ -39,7 +39,7 @@
 </a>
  
 <a href="https://reactjs.org/" rel="nofollow">
-<img src="https://www.kindpng.com/picc/m/69-684389_react-storybook-react-native-logo-hd-png-download.png" alt="React-storybook - React Native Logo, HD Png Download@kindpng.com">
+<img src="https://raw.githubusercontent.com/facebook/react/780eacd408f95f7d4fc15532c4e982b29e9e91fb/fixtures/dom/public/react-logo.svg" alt="React-storybook - React Native Logo, HD Png Download@kindpng.com">
 </a>
 	
 </div>
