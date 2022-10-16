@@ -6,7 +6,7 @@
  <li>✍️ I am a student of <a href="https://mtuci.ru/">MTUCI</a></li>
  </ul>
   <table>
-    	<caption margin-bottop="10px">
+    	<caption margin-bottom="10px">
           <b>📫 How to reach me artempotapkin96@icloud.com</b>
       	</caption>
         
