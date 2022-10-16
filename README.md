@@ -7,7 +7,7 @@
  </ul>
   <table>
     	<caption>
-          <b>📫 How to reach me artempotapkin96@icloud.com</b>
+          <b text-align="center">📫 How to reach me:</b>
       	</caption>
     <tbody>
       	<tr><th>Discord - ArtemArtem#1462</t></tr>
