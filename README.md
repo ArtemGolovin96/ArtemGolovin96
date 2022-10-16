@@ -1,3 +1,9 @@
+<h1 text-align="center">Hello Friends</h1>
+
+
+
+
+
 - 👋 Hi, I’m @ArtemGolovin96
 - 👀 I’m interested in motorcycles, techologies and computer science
 - 🌱 I’m currently learning JS/TS, frontend, Python, Java and algorithms
